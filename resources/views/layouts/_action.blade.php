@@ -1,0 +1,3 @@
+<a href="{{ $url_show }}" class="btn-show btn btn-sm btn-round btn-icon icon-left btn-info" title="Detail"><i class="far fa-fw fa-eye"></i> Show</a>
+<a href="{{ $url_edit }}" class="modal-show edit btn btn-sm btn-round btn-icon icon-left btn-success" title="Edit"><i class="far fa-fw fa-edit"></i> Edit</a>
+<a href="{{ $url_destroy }}" class="btn-delete btn btn-sm btn-round btn-icon icon-left btn-danger" title="Hapus"><i class="fas fa-fw fa-trash-alt"></i> Delete</a>
